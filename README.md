@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayush Sheta  
+re# 👋 Hi, I’m Ayush Sheta  
 
 🎓 **B.Tech Computer Science @ IIIT Hyderabad (Top 20% of batch)**  
 💻 **Aspiring Software Engineer | Researcher | Developer**  
@@ -31,7 +31,7 @@
 
 ## 🏆 Achievements
 - JEE Mains **AIR 1216** (Top 0.04%)  
-- JEE Advanced **AIR 2916**  
+- JEE Advanced **AIR 2596**  
 - Codeforces **Rating 1436**  
 
 ---
