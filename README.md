@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Final Year B.Tech in Computer Science and Engineering at IIIT Hyderabad (Top 20% of batch, GPA: 8.85/10.0)[cite: 1].
+- 🎓 **Education:** Final Year B.Tech in Computer Science and Engineering at IIIT Hyderabad (Dean's List Awardee X2 , GPA: 8.85/10.0)[cite: 1].
 - 💼 **Experience:** AI Summer Analyst at Wells Fargo (PPO offered) and former SDE Intern at Excelerate[cite: 1].
 - 🔭 **Focus Areas:** High-frequency trading simulations, distributed systems (Raft, GFS), and Machine Learning[cite: 1].
 - 🏆 **Achievements:** AIR 1216 in JEE Main[cite: 1], and Top 100 in Amazon ML Challenge[cite: 1].
