@@ -1,8 +1,8 @@
 # Hi there, I'm Ayush Sheta! 👋[cite: 1]
-### Incoming Software Engineer | Systems, AI/ML & Quant Enthusiast
+### Incoming Software Engineer | Systems, AI/ML & Coding Enthusiast
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Building+Distributed+Systems;Quant+%26+Algorithmic+Trading;C%2B%2B+%26+Python+Developer;Machine+Learning+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Competitive+Programmer;Building+Distributed+Systems;Quant+%26+Algorithmic+Trading;Machine+Learning+Researcher" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,8 +11,18 @@
 - 🎓 **Education:** Final Year B.Tech in Computer Science and Engineering at IIIT Hyderabad (Top 20% of batch, GPA: 8.85/10.0)[cite: 1].
 - 💼 **Experience:** AI Summer Analyst at Wells Fargo (PPO offered) and former SDE Intern at Excelerate[cite: 1].
 - 🔭 **Focus Areas:** High-frequency trading simulations, distributed systems (Raft, GFS), and Machine Learning[cite: 1].
-- 🏆 **Achievements:** Codeforces Expert (max 1824)[cite: 1], AIR 1216 in JEE Main[cite: 1], and Top 100 in Amazon ML Challenge[cite: 1].
+- 🏆 **Achievements:** AIR 1216 in JEE Main[cite: 1], and Top 100 in Amazon ML Challenge[cite: 1].
 - 🌱 **Philosophy:** *"Building systems that scale, solving problems that matter."*
+
+---
+
+### ⚡ Competitive Programming & Coding Profiles
+As a coding enthusiast, I actively participate in competitive programming and algorithmic problem-solving.
+<p align="left">
+  <a href="https://codeforces.com/profile/Ayushsheta" target="blank"><img src="https://img.shields.io/badge/Codeforces-Expert_(Max_1824)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>[cite: 1]
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE" target="blank"><img src="https://img.shields.io/badge/CodeChef-4--Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>[cite: 1]
+  <a href="https://leetcode.com/YOUR_LEETCODE_HANDLE" target="blank"><img src="https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
 ---
 
@@ -60,5 +70,4 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ayush-sheta-91602a286" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ayush.sheta@students.iiit.ac.in" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://codeforces.com/profile/Ayushsheta" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
