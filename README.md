@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Sheta! 👋[cite: 1]
+# Hi there, I'm Ayush Sheta! 👋
 ### Incoming Software Engineer | Systems, AI/ML & Coding Enthusiast
 
 <p align="left">
@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Final Year B.Tech in Computer Science and Engineering at IIIT Hyderabad (Dean's List Awardee X2 , GPA: 8.85/10.0)[cite: 1].
-- 💼 **Experience:** AI Summer Analyst at Wells Fargo (PPO offered) and former SDE Intern at Excelerate[cite: 1].
-- 🔭 **Focus Areas:** High-frequency trading simulations, distributed systems (Raft, GFS), and Machine Learning[cite: 1].
-- 🏆 **Achievements:** AIR 1216 in JEE Main[cite: 1], and Top 100 in Amazon ML Challenge[cite: 1].
+- 🎓 **Education:** Final Year B.Tech in Computer Science and Engineering at IIIT Hyderabad (Top 20% of batch, GPA: 8.85/10.0).
+- 💼 **Experience:** AI Summer Analyst at Wells Fargo (PPO offered) and former SDE Intern at Excelerate.
+- 🔭 **Focus Areas:** High-frequency trading simulations, distributed systems (Raft, GFS), and Machine Learning.
+- 🏆 **Achievements:** AIR 1216 in JEE Main, and Top 100 in Amazon ML Challenge.
 - 🌱 **Philosophy:** *"Building systems that scale, solving problems that matter."*
 
 ---
@@ -19,8 +19,8 @@
 ### ⚡ Competitive Programming & Coding Profiles
 As a coding enthusiast, I actively participate in competitive programming and algorithmic problem-solving.
 <p align="left">
-  <a href="https://codeforces.com/profile/Ayushsheta" target="blank"><img src="https://img.shields.io/badge/Codeforces-Expert_(Max_1824)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>[cite: 1]
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE" target="blank"><img src="https://img.shields.io/badge/CodeChef-4--Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>[cite: 1]
+  <a href="https://codeforces.com/profile/Ayushsheta" target="blank"><img src="https://img.shields.io/badge/Codeforces-Expert_(Max_1824)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE" target="blank"><img src="https://img.shields.io/badge/CodeChef-4--Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://leetcode.com/YOUR_LEETCODE_HANDLE" target="blank"><img src="https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
@@ -28,9 +28,9 @@ As a coding enthusiast, I actively participate in competitive programming and al
 
 ### 💻 Featured Projects & Research
 - 🔹 [**dishcovery**](https://github.com/Ayushsheta2005/dishcovery) – Multi-stage retrieval & ranking for geo-constrained food search using a custom C++ inverted index (PForDelta, Roaring), HNSW, H3, and LambdaMART.
-- 🔹 [**marketsim**](https://github.com/Ayushsheta2005/marketsim) – C++20 zero-copy ITCH 5.0 parser and limit order book processing 368M messages in 31.6s[cite: 1].
-- 🔹 [**raftkv**](https://github.com/Ayushsheta2005/raftkv) – C++ implementation of the Raft consensus algorithm from scratch with linearizable KV storage and live shard migration[cite: 1].
-- 🔹 [**saha-al-text-anonymization**](https://github.com/Ayushsheta2005/saha-al-text-anonymization) – A 120K-record text anonymization benchmark in Python, evaluating model inversion attacks and adversarial defenses[cite: 1].
+- 🔹 [**marketsim**](https://github.com/Ayushsheta2005/marketsim) – C++20 zero-copy ITCH 5.0 parser and limit order book processing 368M messages in 31.6s.
+- 🔹 [**raftkv**](https://github.com/Ayushsheta2005/raftkv) – C++ implementation of the Raft consensus algorithm from scratch with linearizable KV storage and live shard migration.
+- 🔹 [**saha-al-text-anonymization**](https://github.com/Ayushsheta2005/saha-al-text-anonymization) – A 120K-record text anonymization benchmark in Python, evaluating model inversion attacks and adversarial defenses.
 - 🔹 [**arithmetic-length-generalization**](https://github.com/Ayushsheta2005/arithmetic-length-generalization) – Research on Transformer extrapolation curves and carry-chain lengths for n-digit addition.
 - 🔹 [**market-signal-eval**](https://github.com/Ayushsheta2005/market-signal-eval) – Leakage-resistant backtesting pipeline with purged walk-forward CV, net-of-cost Sharpe, and Diebold-Mariano tests.
 
@@ -43,7 +43,7 @@ As a coding enthusiast, I actively participate in competitive programming and al
   </a>
 </p>
 
-*Core Areas: Data Structures & Algorithms, Distributed Systems, Operating Systems, Machine Learning, Limit Order Books, Lock-Free Structures*[cite: 1].
+*Core Areas: Data Structures & Algorithms, Distributed Systems, Operating Systems, Machine Learning, Limit Order Books, Lock-Free Structures*.
 
 ---
 
